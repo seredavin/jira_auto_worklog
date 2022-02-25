@@ -5,3 +5,5 @@ go build
 
 ## Запуск
 ./jira_auto_worklog url user password
+
+Apache License
